@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CodeWithSachin
-- 👀 I’m interested in React Js
-- 🌱 I’m currently learning React Js
-- 💞️ I’m looking to collaborate on React Js
+- 👀 I’m interested in Angular
+- 🌱 I’m currently learning Angular
+- 💞️ I’m looking to collaborate on Angular
 - 📫 How to reach me @CodeWithSachin on Twitter & Instagram
 
 <!---
